@@ -8,7 +8,7 @@
 🚀 AI & Data Science Student | Full Stack Developer | AI Enthusiast
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+Artificial+Intelligence+and+Data+Science+Student;Full+Stack+Developer+with+AI;Spring+Boot+%7C+React+%7C+AWS+Developer;Building+Real+World+Applications;Hackathon+Participant+and+Problem+Solver;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+AI+and+Data+Science+Student;Full+Stack+Developer+with+AI;Spring+Boot+%7C+React+%7C+AWS+Developer;Building+Real+World+Applications;Hackathon+Participant+and+Problem+Solver;Always+Learning+New+Technologies+🚀"/>
 
 <br>
 
