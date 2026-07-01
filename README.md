@@ -12,18 +12,11 @@
 
 <br>
 
-<a href="https://github.com/dharunhareesh-lgtm">
-<img src="https://img.shields.io/github/followers/dharunhareesh-lgtm?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=dharunhareesh-lgtm">
-<img src="https://komarev.com/ghpvc/?username=dharunhareesh-lgtm&style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dharun-hareesh-g-3b0b40316/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharun-hareesh-g-3b0b40316/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dharun%20Hareesh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 </div>
 
 ---
@@ -168,13 +161,7 @@ Frontend Battle 3.0 Submission
 
 # 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharunhareesh-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharunhareesh-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -186,15 +173,6 @@ Frontend Battle 3.0 Submission
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharunhareesh-lgtm&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -204,52 +182,16 @@ Frontend Battle 3.0 Submission
 
 </div>
 
----
 
-## 🐍 Contribution Snake Animation
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dharunhareesh-lgtm/dharunhareesh-lgtm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-```yaml
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dharunhareesh-lgtm
-```
-
-After enabling it:
-
-```markdown
-![Snake animation](https://raw.githubusercontent.com/dharunhareesh-lgtm/dharunhareesh-lgtm/output/snake.svg)
-```
-
----
-
-# 💻 Developer Terminal
-
-```bash
-> Initializing Developer Profile...
-> Loading Java Skills...
-> Loading Spring Boot...
-> Loading React Skills...
-> Loading AI Knowledge...
-> Loading AWS Cloud...
-> Status: Ready 🚀
-```
-
----
 
 # 🔥 Current Goals
 
