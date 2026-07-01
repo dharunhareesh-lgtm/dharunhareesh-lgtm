@@ -206,9 +206,11 @@ Frontend Battle 3.0 Submission
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
-Add this GitHub Action later:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dharunhareesh-lgtm/dharunhareesh-lgtm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ```yaml
 name: Generate Snake
