@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=dharunhareesh-lgtm&style=for-the-badge&color=blue&label=Profile+Views"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
 </div>
 
@@ -40,7 +39,7 @@ current_focus:
 career_goal:
   - Software Engineer
   - AI Engineer
-fun_fact: "I turn caffeine into full-stack AI apps ☕→🤖"
+
 ```
 
 - 🎓 3rd year AI & Data Science student
@@ -159,10 +158,16 @@ Hackathon project for AI-based route optimization.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharunhareesh-lgtm&theme=tokyo-night&hide_border=true"/>
 </div>
 
-### 🐍 Contribution Snake
+## ⚡ Boot Sequence
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/dharunhareesh-lgtm/dharunhareesh-lgtm/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=280&lines=%3E+initializing+dharun.exe...;%3E+loading+neural+modules+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+compiling+ambition.jar...+done;%3E+connecting+to+github.com...+success;%3E+spawning+ideas+every+3+seconds;%3E+WARNING%3A+caffeine+levels+critical;%3E+status%3A+READY+TO+SHIP+%F0%9F%9A%80&background=000000FF"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=140&color=0:000000,100:0f2027&text=SYSTEM%20ONLINE%20%E2%80%94%20DHARUN.EXE%20IS%20RUNNING&fontSize=22&fontColor=00FF41&fontAlignY=55&animation=twinkling"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
